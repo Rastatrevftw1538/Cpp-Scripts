@@ -1,0 +1,8 @@
+{
+  "ExpandedNodes": [
+    "\\vcpkg\\ports",
+    "\\vcpkg\\ports\\sdl1",
+    "\\vcpkg\\ports\\winpcap"
+  ],
+  "PreviewInSolutionExplorer": false
+}
